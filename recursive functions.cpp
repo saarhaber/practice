@@ -1,5 +1,5 @@
 //factorial, Euclid algo, reverse string, nth fibonacci number, n ^k
-
+//need to add n choose k
 int fib(int n) {
   if (n<=1) {
     return n;
